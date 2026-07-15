@@ -31,7 +31,7 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
   <nav className="bg-blue-600 text-white p-4 flex gap-6">
   <Link href="/">Home</Link>
-  <Link href="/about">About</Link>
+  <Link href="/about">about</Link>
   <Link href="/services">Services</Link>
   <Link href="/informations">Informations</Link>
   <Link href="/contact">Contact</Link>
